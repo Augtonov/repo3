@@ -39,8 +39,6 @@ public class MainActivity extends BaseActivity {
         initListner();
 
 
-//        jhnhgjhtjkukm
-
 
         viewPager.setAdapter(new AdapterTabs(getSupportFragmentManager()));
 
